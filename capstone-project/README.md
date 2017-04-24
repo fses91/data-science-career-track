@@ -55,17 +55,11 @@ I recommend training CNNs on the GPU because it is much faster than on CPU. The 
 ### CNN_small
 Specifiy npz-file and run the notebook.
 ~~~~
-capstone-project/notebooks/
+capstone-project/notebooks/3.3 CNN_small.ipynb
 ~~~~
 
 ### CNN - VGG16
 Specify train and test folder in the ImageDataGenerators.
 ~~~~
-capstone-project/notebooks/
-~~~~
-
-### CNN - ResNet50
-Specify train and test folder in the ImageDataGenerators.
-~~~~
-capstone-project/notebooks/
+capstone-project/notebooks/3.4 CNN - VGG16.ipynb
 ~~~~
