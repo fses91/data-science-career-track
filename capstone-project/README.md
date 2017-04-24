@@ -35,13 +35,18 @@ capstone-project/notebooks/2.1 Data Preparation - Split-Train-Test.ipynb
 ~~~~
 
 ## Models
+The scripts for the SVM and K-Nearest are very easy. Just specify the npz-file you want to load and the script does everything else for you. The script for the CNN is also very easy just specify the train and test folder in the generator and run the script. 
+
 
 ### SVM
-
-
+~~~~
+capstone-project/notebooks/3.1 Support Vector Machine (SVM).ipynb
+~~~~
 
 ### K-Nearest
-
-
+~~~~
+capstone-project/notebooks/3.2 K-Nearest.ipynb
+~~~~
 
 ### CNN
+I recommend training CNNs on the GPU because it is much faster than on CPU.
