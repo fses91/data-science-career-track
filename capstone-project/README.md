@@ -2,10 +2,10 @@
 
 ## Dependencies:
 
-Anaconda:
+- Anaconda:
 https://docs.continuum.io/anaconda/install<br>
 
-Tensorflow:
+- Tensorflow:
 https://www.tensorflow.org/install/<br>
 
 ~~~~
