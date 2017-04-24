@@ -1,4 +1,4 @@
-# Installation
+# Image Classification - Caltech256
 
 ## Dependencies:
 
@@ -13,3 +13,7 @@ pip install environment.yml
 ~~~~
 
 ## Instructions for use:
+
+~~~~
+git clone https://github.com/fses91/data-science-intensive.git
+~~~~
