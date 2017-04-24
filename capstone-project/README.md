@@ -33,3 +33,15 @@ The script "2.1 Data Preparation - Split-Train-Test.ipynb" splits the data in a 
 ~~~~
 capstone-project/notebooks/2.1 Data Preparation - Split-Train-Test.ipynb
 ~~~~
+
+## Models
+
+### SVM
+
+
+
+### K-Nearest
+
+
+
+### CNN
