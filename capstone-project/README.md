@@ -1,9 +1,14 @@
 # Installation
 
-## Requirements
+## Dependencies:
 
-Install Anaconda
+Anaconda
 https://docs.continuum.io/anaconda/install<br>
 
-Install Tensorflow
+Tensorflow
 https://www.tensorflow.org/install/<br>
+
+Other dependencies can be installed with:
+~~~~
+pip install requirements.txt
+~~~~
