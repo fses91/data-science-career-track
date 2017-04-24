@@ -11,3 +11,5 @@ https://www.tensorflow.org/install/<br>
 ~~~~
 pip install environment.yml
 ~~~~
+
+## Instructions for use:
