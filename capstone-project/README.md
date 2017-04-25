@@ -19,7 +19,7 @@ git clone https://github.com/fses91/data-science-intensive.git
 ~~~~
 2. Download the dataset
 http://www.vision.caltech.edu/Image_Datasets/Caltech256/256_ObjectCategories.tar
-3. Put the content into the data/data folder.
+3. Put the content into a folder /capstone-project/data/data folder. Or use your own folder structure and change the path in the notebooks.
 
 ## Prepare data for sklearn
 If we want to use the data for sklearn we need numpy arrays. The "2. Data Preparation.ipynb" notebooks creates npz-files with a specified amount of classes. Later we can load the data from these files in a simple way.
